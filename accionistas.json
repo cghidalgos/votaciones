@@ -1,0 +1,4282 @@
+[
+    {
+        "code": "87710169",
+        "shares": 23,
+        "id": 0,
+        "password": "8771ACOS",
+        "name": "ACOSTA",
+        "lastName": "CORTEZ MARIO ISAAC",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98362601",
+        "shares": 23,
+        "id": 0,
+        "password": "9836ACOS",
+        "name": "ACOSTA",
+        "lastName": "NARVAEZ SEGUNDO HUMBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5312677",
+        "shares": 23,
+        "id": 0,
+        "password": "5312ACOS",
+        "name": "ACOSTA",
+        "lastName": "VILLOTA JOSE ROBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27211631",
+        "shares": 23,
+        "id": 0,
+        "password": "2721AGUI",
+        "name": "AGUIRRE",
+        "lastName": "CIELITO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36933880",
+        "shares": 23,
+        "id": 0,
+        "password": "3693ANAM",
+        "name": "ANAMA",
+        "lastName": "MORA DORIS Y OTRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27386857",
+        "shares": 23,
+        "id": 0,
+        "password": "2738ANRA",
+        "name": "ANRANGO",
+        "lastName": "MA. DEL CARMEN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36990497",
+        "shares": 68,
+        "id": 0,
+        "password": "3699ARAN",
+        "name": "ARANGO",
+        "lastName": "DE BERNAL MARINA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36995584",
+        "shares": 23,
+        "id": 0,
+        "password": "3699ARCI",
+        "name": "ARCINIEGAS",
+        "lastName": "ROSERO MARIA EUGENIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87719744",
+        "shares": 23,
+        "id": 0,
+        "password": "8771AREL",
+        "name": "ARELLANO",
+        "lastName": "BENAVIDES LEON ANGEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212662",
+        "shares": 47,
+        "id": 0,
+        "password": "5212AREV",
+        "name": "AREVALO",
+        "lastName": "BURGOS HECTOR EFRAIN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37000031",
+        "shares": 23,
+        "id": 0,
+        "password": "3700AREV",
+        "name": "AREVALO",
+        "lastName": "CISNEROS SILVIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212118",
+        "shares": 23,
+        "id": 0,
+        "password": "5212AREV",
+        "name": "AREVALO",
+        "lastName": "MARCO ANTONIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37124922",
+        "shares": 23,
+        "id": 0,
+        "password": "3712ARGO",
+        "name": "ARGOTY",
+        "lastName": "MAGALY ANDREA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "6380082",
+        "shares": 57,
+        "id": 0,
+        "password": "6380ARTE",
+        "name": "ARTEAGA",
+        "lastName": "ARTEAGA LIBARDO ULISES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36991517",
+        "shares": 23,
+        "id": 0,
+        "password": "3699ARTE",
+        "name": "ARTEAGA",
+        "lastName": "BLANCA ELENA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "12835161",
+        "shares": 23,
+        "id": 0,
+        "password": "1283ARTE",
+        "name": "ARTEAGA",
+        "lastName": "GUERRERO ORLANDO NOR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27104744",
+        "shares": 23,
+        "id": 0,
+        "password": "2710AZA ",
+        "name": "AZA",
+        "lastName": "LUZ MARINA Y CLARA LIDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13001121",
+        "shares": 50,
+        "id": 0,
+        "password": "1300AZA ",
+        "name": "AZA",
+        "lastName": "SEGUNDO GERARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87217568",
+        "shares": 23,
+        "id": 0,
+        "password": "8721BAEZ",
+        "name": "BAEZ",
+        "lastName": "MILTON RAMIRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27246359",
+        "shares": 42,
+        "id": 0,
+        "password": "2724BAST",
+        "name": "BASTIDAS",
+        "lastName": "DE CAHPUEZ CARMEN O.",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13010663",
+        "shares": 23,
+        "id": 0,
+        "password": "1301BAST",
+        "name": "BASTIDAS",
+        "lastName": "TOMAS ELIECER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98363055",
+        "shares": 23,
+        "id": 0,
+        "password": "9836BELA",
+        "name": "BELALCAZAR",
+        "lastName": "EULER GUILLERMO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27386999",
+        "shares": 100,
+        "id": 0,
+        "password": "2738BENA",
+        "name": "BENAVIDES",
+        "lastName": " VILLARREAL  LUCIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36992352",
+        "shares": 23,
+        "id": 0,
+        "password": "3699BENA",
+        "name": "BENAVIDES",
+        "lastName": "ALBA BENILDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87712279",
+        "shares": 23,
+        "id": 0,
+        "password": "8771BENA",
+        "name": "BENAVIDES",
+        "lastName": "GUERRERO WILLIAM ALEXANDER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36994764",
+        "shares": 34,
+        "id": 0,
+        "password": "3699BENA",
+        "name": "BENAVIDES",
+        "lastName": "TRUJILLO  GLORIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5267327",
+        "shares": 68,
+        "id": 0,
+        "password": "5267BENA",
+        "name": "BENAVIDES",
+        "lastName": "VICTOR MANUEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5307768",
+        "shares": 23,
+        "id": 0,
+        "password": "5307BENI",
+        "name": "BENITEZ",
+        "lastName": "SAULO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36998915",
+        "shares": 568,
+        "id": 0,
+        "password": "3699BENV",
+        "name": "BENVIDES",
+        "lastName": "PUERRES MYRIAM GUADALUPE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13004937",
+        "shares": 23,
+        "id": 0,
+        "password": "1300BERN",
+        "name": "BERNAL",
+        "lastName": "DELGADO LUIS EFRAIN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13000147",
+        "shares": 205,
+        "id": 0,
+        "password": "1300BERN",
+        "name": "BERNAL",
+        "lastName": "SERVIO TULIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87712840",
+        "shares": 46,
+        "id": 0,
+        "password": "8771BETA",
+        "name": "BETANCOURTH",
+        "lastName": "JAIRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5307618",
+        "shares": 23,
+        "id": 0,
+        "password": "5307BOLA",
+        "name": "BOLAÑOS",
+        "lastName": "BENAVIDES CLELIO RAFAEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37124183",
+        "shares": 23,
+        "id": 0,
+        "password": "3712BOLA",
+        "name": "BOLAÑOS",
+        "lastName": "TARAPUEZ LADY ADRIANA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "170684533",
+        "shares": 90,
+        "id": 0,
+        "password": "1706BRAC",
+        "name": "BRACHO",
+        "lastName": "BERTHA JIMENA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37001995",
+        "shares": 1000,
+        "id": 0,
+        "password": "3700BRAV",
+        "name": "BRAVO",
+        "lastName": "ELISA ROCIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87710161",
+        "shares": 10,
+        "id": 0,
+        "password": "8771BRAV",
+        "name": "BRAVO",
+        "lastName": "LUCERO JAIME EDMUNDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37001392",
+        "shares": 24,
+        "id": 0,
+        "password": "3700BRAV",
+        "name": "BRAVO",
+        "lastName": "LUCERO ROSA ELVIRA ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37011449",
+        "shares": 23,
+        "id": 0,
+        "password": "3701BRAV",
+        "name": "BRAVO",
+        "lastName": "MEJIA LILIANA DEL PILAR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5269202",
+        "shares": 23,
+        "id": 0,
+        "password": "5269BURB",
+        "name": "BURBANO",
+        "lastName": "EMILIO FERNEY",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36996069",
+        "shares": 92,
+        "id": 0,
+        "password": "3699BURB",
+        "name": "BURBANO",
+        "lastName": "MARIA TRINIDAD",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27243980",
+        "shares": 32,
+        "id": 0,
+        "password": "2724BURG",
+        "name": "BURGOS",
+        "lastName": "DE CHAMORRO ZOILA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13010106",
+        "shares": 23,
+        "id": 0,
+        "password": "1301BUST",
+        "name": "BUSTOS",
+        "lastName": "EDGAR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13011729",
+        "shares": 23,
+        "id": 0,
+        "password": "1301BUST",
+        "name": "BUSTOS",
+        "lastName": "HARO ORLANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36999271",
+        "shares": 11,
+        "id": 0,
+        "password": "3699BUST",
+        "name": "BUSTOS",
+        "lastName": "IBARRA MAGALY DE JESUS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87717961",
+        "shares": 23,
+        "id": 0,
+        "password": "8771BUST",
+        "name": "BUSTOS",
+        "lastName": "ROBERTO CARLOS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87714558",
+        "shares": 23,
+        "id": 0,
+        "password": "8771CABR",
+        "name": "CABRERA",
+        "lastName": "CHAMORRO EDGAR FERNANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87104416",
+        "shares": 68,
+        "id": 0,
+        "password": "8710CABR",
+        "name": "CABRERA",
+        "lastName": "JHON HERMOGENES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13007832",
+        "shares": 173,
+        "id": 0,
+        "password": "1300CABR",
+        "name": "CABRERA",
+        "lastName": "MARDOMIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27502664",
+        "shares": 23,
+        "id": 0,
+        "password": "2750CABR",
+        "name": "CABRERA",
+        "lastName": "ORTEGA JOSEFINA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13005156",
+        "shares": 23,
+        "id": 0,
+        "password": "1300CABR",
+        "name": "CABRERA",
+        "lastName": "SERVIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37003069",
+        "shares": 46,
+        "id": 0,
+        "password": "3700CADE",
+        "name": "CADENA",
+        "lastName": "CARMEN GLORIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98344763",
+        "shares": 23,
+        "id": 0,
+        "password": "9834CAHC",
+        "name": "CAHCUA",
+        "lastName": "TONGUINO ADOLFO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5259625",
+        "shares": 23,
+        "id": 0,
+        "password": "5259CAIC",
+        "name": "CAICEDO",
+        "lastName": "CAICEDO JORGE HUMBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27388365",
+        "shares": 23,
+        "id": 0,
+        "password": "2738CALD",
+        "name": "CALDERON",
+        "lastName": "CAMPAÑA ALEXANDRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87102986",
+        "shares": 23,
+        "id": 0,
+        "password": "8710CALD",
+        "name": "CALDERON",
+        "lastName": "CAMPAÑA JAIME OLIVER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27070468",
+        "shares": 45,
+        "id": 0,
+        "password": "2707CALD",
+        "name": "CALDERON",
+        "lastName": "DE CAICEDO ROSA LYDIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27388008",
+        "shares": 13,
+        "id": 0,
+        "password": "2738CALD",
+        "name": "CALDERON",
+        "lastName": "QUENGUAN GLADYS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5308920",
+        "shares": 23,
+        "id": 0,
+        "password": "5308CALV",
+        "name": "CALVACHE",
+        "lastName": "SANCHEZ ADOLFO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98343312",
+        "shares": 23,
+        "id": 0,
+        "password": "9834CAMP",
+        "name": "CAMPAÑA",
+        "lastName": "MARTIN ALONSO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5309388",
+        "shares": 65,
+        "id": 0,
+        "password": "5309CAMP",
+        "name": "CAMPAÑA",
+        "lastName": "SERVIO TULIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5309487",
+        "shares": 20,
+        "id": 0,
+        "password": "5309CARL",
+        "name": "CARLOSAMA",
+        "lastName": "CORAL MIGUEL ANGEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13014888",
+        "shares": 18,
+        "id": 0,
+        "password": "1301CASA",
+        "name": "CASANOVA",
+        "lastName": "JAIME ALFREDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27500451",
+        "shares": 23,
+        "id": 0,
+        "password": "2750CAST",
+        "name": "CASTILLO",
+        "lastName": "RODRIGUEZ MA. ELIZABETH",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36992928",
+        "shares": 23,
+        "id": 0,
+        "password": "3699CAST",
+        "name": "CASTRO",
+        "lastName": "MARIAEMMA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212154",
+        "shares": 23,
+        "id": 0,
+        "password": "5212CEBA",
+        "name": "CEBALLOS",
+        "lastName": "CALPA EDGAR EDMUNDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1848939",
+        "shares": 23,
+        "id": 0,
+        "password": "1848CEBA",
+        "name": "CEBALLOS",
+        "lastName": "HERNAN SIGIFREDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27104323",
+        "shares": 47,
+        "id": 0,
+        "password": "2710CEBA",
+        "name": "CEBALLOS",
+        "lastName": "NASTAR MA. GRACIELA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085937082",
+        "shares": 23,
+        "id": 0,
+        "password": "1085CERO",
+        "name": "CERON",
+        "lastName": "BRAVO MARIANA DEL PILAR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13004317",
+        "shares": 23,
+        "id": 0,
+        "password": "1300CERO",
+        "name": "CERON",
+        "lastName": "MARCO TULIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36998999",
+        "shares": 23,
+        "id": 0,
+        "password": "3699CHAC",
+        "name": "CHACON",
+        "lastName": "RIASCOS MARTHA CELIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87715305",
+        "shares": 23,
+        "id": 0,
+        "password": "8771CHAC",
+        "name": "CHACUA",
+        "lastName": "CHALACA JOSE WILSON",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085942612",
+        "shares": 23,
+        "id": 0,
+        "password": "1085CHAC",
+        "name": "CHACUA",
+        "lastName": "VALLEJO WILSON Y OTRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98387583",
+        "shares": 23,
+        "id": 0,
+        "password": "9838CHAG",
+        "name": "CHAGUEZA",
+        "lastName": "HERNANDEZ BERNAL MILLER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98417550",
+        "shares": 23,
+        "id": 0,
+        "password": "9841CHAL",
+        "name": "CHALAPUD",
+        "lastName": "LUIS HERNANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27389631",
+        "shares": 23,
+        "id": 0,
+        "password": "2738CHAM",
+        "name": "CHAMORRO",
+        "lastName": "BENAVIDES ISAURA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5312638",
+        "shares": 23,
+        "id": 0,
+        "password": "5312CHAM",
+        "name": "CHAMORRO",
+        "lastName": "CASTRO JESUS ARMANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13000318",
+        "shares": 23,
+        "id": 0,
+        "password": "1300CHAM",
+        "name": "CHAMORRO",
+        "lastName": "CORAL LUIS GONZALO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5307660",
+        "shares": 29,
+        "id": 0,
+        "password": "5307CHAM",
+        "name": "CHAMORRO",
+        "lastName": "FUERTES HUMBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98362320",
+        "shares": 23,
+        "id": 0,
+        "password": "9836CHAM",
+        "name": "CHAMORRO",
+        "lastName": "JOSE RAMIRO ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98361951",
+        "shares": 23,
+        "id": 0,
+        "password": "9836CHAM",
+        "name": "CHAMORRO",
+        "lastName": "JUAN Y CHAMORRO HERMEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87712133",
+        "shares": 23,
+        "id": 0,
+        "password": "8771CHAM",
+        "name": "CHAMORRO",
+        "lastName": "NEMECIO ROSENDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98338113",
+        "shares": 34,
+        "id": 0,
+        "password": "9833CHAM",
+        "name": "CHAMORRO",
+        "lastName": "OSCAR JAVIER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98337472",
+        "shares": 23,
+        "id": 0,
+        "password": "9833CHAM",
+        "name": "CHAMORRO",
+        "lastName": "BURGOS LIBARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37005485",
+        "shares": 47,
+        "id": 0,
+        "password": "3700CHAM",
+        "name": "CHAMORRO",
+        "lastName": "PIEDAD GUADALUPE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5307802",
+        "shares": 35,
+        "id": 0,
+        "password": "5307CHAS",
+        "name": "CHASPUENGAL",
+        "lastName": "JAIME HOMERO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13002146",
+        "shares": 795,
+        "id": 0,
+        "password": "1300CHAV",
+        "name": "CHAVES",
+        "lastName": "HERNANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1867002",
+        "shares": 45,
+        "id": 0,
+        "password": "1867CHAV",
+        "name": "CHAVES",
+        "lastName": "MARCO ANTONIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36996522",
+        "shares": 23,
+        "id": 0,
+        "password": "3699CHIN",
+        "name": "CHINGAL",
+        "lastName": "ROSA NUBIA STELLA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87715870",
+        "shares": 43,
+        "id": 0,
+        "password": "8771COLI",
+        "name": "COLIMBA",
+        "lastName": "RICHARD",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1128467044",
+        "shares": 104,
+        "id": 0,
+        "password": "1128CORA",
+        "name": "CORAL",
+        "lastName": "ARTEAGA DIEGO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13004142",
+        "shares": 23,
+        "id": 0,
+        "password": "1300CORA",
+        "name": "CORAL",
+        "lastName": "CHAVES CELIO ADRIANO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13004296",
+        "shares": 45,
+        "id": 0,
+        "password": "1300CORA",
+        "name": "CORAL",
+        "lastName": "HERNANDEZ PROCULO ALIRIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87712142",
+        "shares": 23,
+        "id": 0,
+        "password": "8771CORA",
+        "name": "CORAL",
+        "lastName": "LOPEZ RICARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13016242",
+        "shares": 23,
+        "id": 0,
+        "password": "1301CORA",
+        "name": "CORAL",
+        "lastName": "MUÑOZ CARLOS ADALBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13003406",
+        "shares": 23,
+        "id": 0,
+        "password": "1300CORA",
+        "name": "CORAL",
+        "lastName": "ORTEGA JOSE EFRAIN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37001902",
+        "shares": 46,
+        "id": 0,
+        "password": "3700CORT",
+        "name": "CORTEZ",
+        "lastName": "NELLY YOLANDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87712338",
+        "shares": 46,
+        "id": 0,
+        "password": "8771CORT",
+        "name": "CORTEZ",
+        "lastName": "PERENGUEZ HERMES IGNACIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36993748",
+        "shares": 23,
+        "id": 0,
+        "password": "3699CUAD",
+        "name": "CUADROS",
+        "lastName": "DE YANDUN ROSALBINA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87710144",
+        "shares": 23,
+        "id": 0,
+        "password": "8771CUAD",
+        "name": "CUADROS",
+        "lastName": "MARCOS MACARIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13013652",
+        "shares": 23,
+        "id": 0,
+        "password": "1301CUAD",
+        "name": "CUADROS",
+        "lastName": "NELSO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "79679085",
+        "shares": 23,
+        "id": 0,
+        "password": "7967CUAR",
+        "name": "CUARAN",
+        "lastName": "LUIS FRANCISCO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37009104",
+        "shares": 23,
+        "id": 0,
+        "password": "3700CUAS",
+        "name": "CUASAPAZ",
+        "lastName": "CARMEN YANETH",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98364752",
+        "shares": 23,
+        "id": 0,
+        "password": "9836CUAS",
+        "name": "CUASAPAZ",
+        "lastName": "TEPUD WILIAM BRAULIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87719135",
+        "shares": 23,
+        "id": 0,
+        "password": "8771CUAS",
+        "name": "CUASIALPUD",
+        "lastName": "VALENCIA LUIS LAVARO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36009237",
+        "shares": 40,
+        "id": 0,
+        "password": "3600CUAS",
+        "name": "CUASPUD",
+        "lastName": "ENRIQUEZ MARIBEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13012536",
+        "shares": 23,
+        "id": 0,
+        "password": "1301CUAS",
+        "name": "CUASPUD",
+        "lastName": "HECTOR HUGO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13010541",
+        "shares": 23,
+        "id": 0,
+        "password": "1301CUAS",
+        "name": "CUASPUD",
+        "lastName": "SEGUNDO VICENTE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87711561",
+        "shares": 23,
+        "id": 0,
+        "password": "8771CUAS",
+        "name": "CUASQUER",
+        "lastName": "WILSON FERNANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085897652",
+        "shares": 23,
+        "id": 0,
+        "password": "1085CUAS",
+        "name": "CUASTUMAL",
+        "lastName": "LUIS ALEXANDER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212300",
+        "shares": 115,
+        "id": 0,
+        "password": "5212CULT",
+        "name": "CULTID",
+        "lastName": "CEBALLOS JOSE ANTONIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27104330",
+        "shares": 23,
+        "id": 0,
+        "password": "2710CULT",
+        "name": "CULTID",
+        "lastName": "NASTAR ROSARIO DEL SOCORRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212023",
+        "shares": 23,
+        "id": 0,
+        "password": "5212CULT",
+        "name": "CULTID",
+        "lastName": "VICENTE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212157",
+        "shares": 23,
+        "id": 0,
+        "password": "5212D´RA",
+        "name": "D´RAZO",
+        "lastName": "GERARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13006758",
+        "shares": 23,
+        "id": 0,
+        "password": "1300DELG",
+        "name": "DELGADO",
+        "lastName": "GUSTAVO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13010587",
+        "shares": 23,
+        "id": 0,
+        "password": "1301DELG",
+        "name": "DELGADO",
+        "lastName": "HERNANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27104459",
+        "shares": 47,
+        "id": 0,
+        "password": "2710DERA",
+        "name": "DERAZO",
+        "lastName": "RODRIGUEZ MA. BERNARDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212332",
+        "shares": 24,
+        "id": 0,
+        "password": "5212DIAZ",
+        "name": "DIAZ",
+        "lastName": "FREDY HERNANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "80423370",
+        "shares": 67,
+        "id": 0,
+        "password": "8042DIAZ",
+        "name": "DIAZ",
+        "lastName": "REALPE LUIS FERNANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36991740",
+        "shares": 7,
+        "id": 0,
+        "password": "3699DORA",
+        "name": "DORADO",
+        "lastName": "DE BASTIDAS FLOR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36993092",
+        "shares": 23,
+        "id": 0,
+        "password": "3699DORA",
+        "name": "DORADO",
+        "lastName": "DE GOYES MA. CONSUELO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13006837",
+        "shares": 172,
+        "id": 0,
+        "password": "1300ERAZ",
+        "name": "ERAZO",
+        "lastName": "CARLOS HUMBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "19157442",
+        "shares": 1037,
+        "id": 0,
+        "password": "1915ERAZ",
+        "name": "ERAZO",
+        "lastName": "OSCAR JAVIER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87218324",
+        "shares": 23,
+        "id": 0,
+        "password": "8721ERIR",
+        "name": "ERIRA",
+        "lastName": "DIEGO ANDRES Y OTRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1800599",
+        "shares": 30,
+        "id": 0,
+        "password": "1800ERIR",
+        "name": "ERIRA",
+        "lastName": "JORGE ANGEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13008387",
+        "shares": 191,
+        "id": 0,
+        "password": "1300ERIR",
+        "name": "ERIRA",
+        "lastName": "LUiS GERARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212273",
+        "shares": 23,
+        "id": 0,
+        "password": "5212ERIR",
+        "name": "ERIRA",
+        "lastName": "RIGOBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37013894",
+        "shares": 23,
+        "id": 0,
+        "password": "3701ERIR",
+        "name": "ERIRA",
+        "lastName": "ROSERO RUTH MERCEDES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13010024",
+        "shares": 23,
+        "id": 0,
+        "password": "1301ERIR",
+        "name": "ERIRA",
+        "lastName": "VICENTE HUGO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13008949",
+        "shares": 10,
+        "id": 0,
+        "password": "1300ESCO",
+        "name": "ESCOBAR",
+        "lastName": "CASTRO LUIS ABRAHAM",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36993099",
+        "shares": 34,
+        "id": 0,
+        "password": "3699FIGU",
+        "name": "FIGUEROA",
+        "lastName": "DE ARCOS ANA MARIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5310025",
+        "shares": 23,
+        "id": 0,
+        "password": "5310FIGU",
+        "name": "FIGUEROA",
+        "lastName": "CHAMORRO ALIRIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87711620",
+        "shares": 23,
+        "id": 0,
+        "password": "8771FIGU",
+        "name": "FIGUEROA",
+        "lastName": "REVELO ERALDO MARCIAL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13010739",
+        "shares": 23,
+        "id": 0,
+        "password": "1301FUEL",
+        "name": "FUELAGAN",
+        "lastName": "ALIRIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27380397",
+        "shares": 23,
+        "id": 0,
+        "password": "2738FUER",
+        "name": "FUERTES",
+        "lastName": "ESPERANZA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87217442",
+        "shares": 23,
+        "id": 0,
+        "password": "8721FUER",
+        "name": "FUERTES",
+        "lastName": "JAIRO ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98337444",
+        "shares": 23,
+        "id": 0,
+        "password": "9833FUER",
+        "name": "FUERTES",
+        "lastName": "JOSE SIGIFREDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1846835",
+        "shares": 68,
+        "id": 0,
+        "password": "1846GARC",
+        "name": "GARCIA",
+        "lastName": "JORGE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37006726",
+        "shares": 23,
+        "id": 0,
+        "password": "3700GER ",
+        "name": "GER",
+        "lastName": "GLADIS OMAIRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27253128",
+        "shares": 44,
+        "id": 0,
+        "password": "2725GOME",
+        "name": "GOMEZ",
+        "lastName": "JORGE LEON",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13007746",
+        "shares": 102,
+        "id": 0,
+        "password": "1300GONZ",
+        "name": "GONZALES",
+        "lastName": "MANUEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27225030",
+        "shares": 46,
+        "id": 0,
+        "password": "2722GONZ",
+        "name": "GONZALEZ",
+        "lastName": "CASTRO MA. ROSARIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13016150",
+        "shares": 23,
+        "id": 0,
+        "password": "1301GOYE",
+        "name": "GOYES",
+        "lastName": "GARRETA WILSON",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1152458444",
+        "shares": 200,
+        "id": 0,
+        "password": "1152GUAM",
+        "name": "GUAMANZAR",
+        "lastName": "MILTON EDUARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5275979",
+        "shares": 23,
+        "id": 0,
+        "password": "5275GUER",
+        "name": "GUERRERO",
+        "lastName": "CARLOS EDMUNDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27104175",
+        "shares": 23,
+        "id": 0,
+        "password": "2710GUER",
+        "name": "GUERRERO",
+        "lastName": "FREDESMINDA BRISELA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1017272614",
+        "shares": 23,
+        "id": 0,
+        "password": "1017GUER",
+        "name": "GUERRERO",
+        "lastName": "OLIVA LAURA DANIELA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98362666",
+        "shares": 23,
+        "id": 0,
+        "password": "9836GUER",
+        "name": "GUERRERO",
+        "lastName": "TAPIA GUILLERMO JAVIER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36992274",
+        "shares": 23,
+        "id": 0,
+        "password": "3699GUER",
+        "name": "GUERRON",
+        "lastName": "GRIJALBA ALBA YOLANDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27388734",
+        "shares": 23,
+        "id": 0,
+        "password": "2738GUZM",
+        "name": "GUZMAN",
+        "lastName": "EMILCE DEL R. Y OTRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98398237",
+        "shares": 23,
+        "id": 0,
+        "password": "9839HEAN",
+        "name": "HEANO",
+        "lastName": "JESUS ABIECER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5268282",
+        "shares": 46,
+        "id": 0,
+        "password": "5268HENA",
+        "name": "HENAO",
+        "lastName": "CESAR AUGUSTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "66848447",
+        "shares": 23,
+        "id": 0,
+        "password": "6684HENA",
+        "name": "HENAO",
+        "lastName": "ROSA IDALID",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5309933",
+        "shares": 23,
+        "id": 0,
+        "password": "5309HERN",
+        "name": "HERNANDEZ",
+        "lastName": "HECTOR ANTONIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27395773",
+        "shares": 30,
+        "id": 0,
+        "password": "2739HERN",
+        "name": "HERNANDEZ",
+        "lastName": "HERNANDEZ NANCY ADIELA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36995080",
+        "shares": 23,
+        "id": 0,
+        "password": "3699HERN",
+        "name": "HERNANDEZ",
+        "lastName": "MA. NELLY",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "12957250",
+        "shares": 23,
+        "id": 0,
+        "password": "1295HERN",
+        "name": "HERNANDEZ",
+        "lastName": "NASTAR JORGE ADALBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13010097",
+        "shares": 45,
+        "id": 0,
+        "password": "1301HERN",
+        "name": "HERNANDEZ",
+        "lastName": "RAUL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87115107",
+        "shares": 43,
+        "id": 0,
+        "password": "8711HERN",
+        "name": "HERNANDEZ",
+        "lastName": "SIXTO ALEXANDER Y OTRO.",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085936811",
+        "shares": 23,
+        "id": 0,
+        "password": "1085HERN",
+        "name": "HERNANDEZ",
+        "lastName": "TAPIA JESSICA KATHERINE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "38999101",
+        "shares": 240,
+        "id": 0,
+        "password": "3899HERR",
+        "name": "HERRERA",
+        "lastName": "DE TORRES BLANCA NIEVES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98362456",
+        "shares": 23,
+        "id": 0,
+        "password": "9836IBAR",
+        "name": "IBARRA",
+        "lastName": "BAYARDO ANTONIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13013257",
+        "shares": 23,
+        "id": 0,
+        "password": "1301IBAR",
+        "name": "IBARRA",
+        "lastName": "CEBALLOS GERMAN ARTURO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87710876",
+        "shares": 23,
+        "id": 0,
+        "password": "8771IBAR",
+        "name": "IBARRA",
+        "lastName": "GONZALEZ JAIME ANDRES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87711377",
+        "shares": 23,
+        "id": 0,
+        "password": "8771IBAR",
+        "name": "IBARRA",
+        "lastName": "JESUS OSWALDO Y OTRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212175",
+        "shares": 23,
+        "id": 0,
+        "password": "5212IMBA",
+        "name": "IMBACUAN",
+        "lastName": "JOSE JESUS Y OTRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37001747",
+        "shares": 23,
+        "id": 0,
+        "password": "3700INCH",
+        "name": "INCHUCHALA",
+        "lastName": "CUADROS MARGARITA P.",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13016518",
+        "shares": 23,
+        "id": 0,
+        "password": "1301IPIA",
+        "name": "IPIAL",
+        "lastName": "MIGUEL ANGEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13006967",
+        "shares": 10,
+        "id": 0,
+        "password": "1300IPIA",
+        "name": "IPIAL",
+        "lastName": "WILSON HOMERO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13006767",
+        "shares": 23,
+        "id": 0,
+        "password": "1300IPIA",
+        "name": "IPIAL",
+        "lastName": "YANDUN JOSE ALCIDES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37012818",
+        "shares": 23,
+        "id": 0,
+        "password": "3701JACO",
+        "name": "JACOME",
+        "lastName": "ALBA NELLY",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36998883",
+        "shares": 23,
+        "id": 0,
+        "password": "3699JARA",
+        "name": "JARAMILLO",
+        "lastName": "CASANOVA MERY ELENA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5309220",
+        "shares": 23,
+        "id": 0,
+        "password": "5309JOJO",
+        "name": "JOJOA",
+        "lastName": "CAMPAÑA MARDOQUEO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "12991936",
+        "shares": 23,
+        "id": 0,
+        "password": "1299JULI",
+        "name": "JULIO",
+        "lastName": "CESAR CHECA Y NURI RUBIELA VILLOTA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37122064",
+        "shares": 23,
+        "id": 0,
+        "password": "3712LAGO",
+        "name": "LAGOS",
+        "lastName": "OLGA LIDIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27104619",
+        "shares": 23,
+        "id": 0,
+        "password": "2710LOPE",
+        "name": "LOPEZ",
+        "lastName": "AGUIRRE MARTHA LIDIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27388651",
+        "shares": 23,
+        "id": 0,
+        "password": "2738LOPE",
+        "name": "LOPEZ",
+        "lastName": "BRAVO PATRICA ALIZABETH",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13004848",
+        "shares": 23,
+        "id": 0,
+        "password": "1300LOPE",
+        "name": "LOPEZ",
+        "lastName": "CHAMORRO JAIME FABIAN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "51550365",
+        "shares": 2457,
+        "id": 0,
+        "password": "5155LOPE",
+        "name": "LOPEZ",
+        "lastName": "CORDOBA INES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27386864",
+        "shares": 40,
+        "id": 0,
+        "password": "2738LOPE",
+        "name": "LOPEZ",
+        "lastName": "MA. ELENA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085635243",
+        "shares": 23,
+        "id": 0,
+        "password": "1085LOPE",
+        "name": "LOPEZ",
+        "lastName": "QUIROZ JOHANA PAOLA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87715503",
+        "shares": 23,
+        "id": 0,
+        "password": "8771LUCE",
+        "name": "LUCERO",
+        "lastName": "HOMERO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13011564",
+        "shares": 20,
+        "id": 0,
+        "password": "1301LUCE",
+        "name": "LUCERO",
+        "lastName": "JARAMILLO HECTOR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13008041",
+        "shares": 25,
+        "id": 0,
+        "password": "1300LUCE",
+        "name": "LUCERO",
+        "lastName": "NELSON ENRIQUE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "16236329",
+        "shares": 23,
+        "id": 0,
+        "password": "1623LUCE",
+        "name": "LUCERO",
+        "lastName": "POLIVIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27387427",
+        "shares": 37,
+        "id": 0,
+        "password": "2738LUCE",
+        "name": "LUCERO",
+        "lastName": "TORO CARMEN DEL ROSARIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13006030",
+        "shares": 19,
+        "id": 0,
+        "password": "1300LUNA",
+        "name": "LUNA",
+        "lastName": "MEDINA JAIME ALFREDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87103260",
+        "shares": 100,
+        "id": 0,
+        "password": "8710LUNA",
+        "name": "LUNA",
+        "lastName": "VILLOTA JULIO CESAR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5259216",
+        "shares": 23,
+        "id": 0,
+        "password": "5259MALL",
+        "name": "MALLAMA",
+        "lastName": "JESUS EDUARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87714786",
+        "shares": 23,
+        "id": 0,
+        "password": "8771MALP",
+        "name": "MALPUD",
+        "lastName": "JOSE GILBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87715517",
+        "shares": 34,
+        "id": 0,
+        "password": "8771MALP",
+        "name": "MALPUD",
+        "lastName": "JOSE JEREMIAS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87718072",
+        "shares": 23,
+        "id": 0,
+        "password": "8771MART",
+        "name": "MARTINEZ",
+        "lastName": "ANCISAR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27250049",
+        "shares": 23,
+        "id": 0,
+        "password": "2725MEJI",
+        "name": "MEJIA",
+        "lastName": "CORAL DORIS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13008132",
+        "shares": 11,
+        "id": 0,
+        "password": "1300MEJI",
+        "name": "MEJIA",
+        "lastName": "CUASQUER MARINO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87710624",
+        "shares": 23,
+        "id": 0,
+        "password": "8771MEJI",
+        "name": "MEJIA",
+        "lastName": "ROMO WISTON EDILBERTH",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36998911",
+        "shares": 23,
+        "id": 0,
+        "password": "3699MENA",
+        "name": "MENA",
+        "lastName": "BRAVO NOHORA EDITH",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "30706395",
+        "shares": 684,
+        "id": 0,
+        "password": "3070MEND",
+        "name": "MENDES",
+        "lastName": "DE ESCUDERO ZORAIDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87102114",
+        "shares": 47,
+        "id": 0,
+        "password": "8710MENE",
+        "name": "MENESES",
+        "lastName": "ASCUNTAR LUIS ALEJANDRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085898186",
+        "shares": 3000,
+        "id": 0,
+        "password": "1085MERI",
+        "name": "MERINO",
+        "lastName": "CHAMORRRO FANNY CARMENZA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "12958674",
+        "shares": 83,
+        "id": 0,
+        "password": "1295MERI",
+        "name": "MERINO",
+        "lastName": "DIAZ CARLOS EFRAIN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5266899",
+        "shares": 150,
+        "id": 0,
+        "password": "5266MIÑO",
+        "name": "MIÑO",
+        "lastName": "JORGE ADALBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "30703801",
+        "shares": 23,
+        "id": 0,
+        "password": "3070MIRA",
+        "name": "MIRANDA",
+        "lastName": "LUNA AURA STELLA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36993163",
+        "shares": 23,
+        "id": 0,
+        "password": "3699MONT",
+        "name": "MONTENEGRO",
+        "lastName": "DE JARAMILLO GLORIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13003113",
+        "shares": 6842,
+        "id": 0,
+        "password": "1300MONT",
+        "name": "MONTENEGRO",
+        "lastName": "FELIX",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36995467",
+        "shares": 523,
+        "id": 0,
+        "password": "3699MONT",
+        "name": "MONTENEGRO",
+        "lastName": "HUERTAS ANA LUISA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5309873",
+        "shares": 23,
+        "id": 0,
+        "password": "5309MONT",
+        "name": "MONTENEGRO",
+        "lastName": "LUIS ANTONIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27255386",
+        "shares": 42,
+        "id": 0,
+        "password": "2725MONT",
+        "name": "MONTENEGRO",
+        "lastName": "POSSO GLORIA STELLA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085944402",
+        "shares": 23,
+        "id": 0,
+        "password": "1085MONT",
+        "name": "MONTENEGRO",
+        "lastName": "VICTOR DANILO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27332397",
+        "shares": 23,
+        "id": 0,
+        "password": "2733MORA",
+        "name": "MORA",
+        "lastName": "MENA NELLY DEL SOCORRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1868389",
+        "shares": 100,
+        "id": 0,
+        "password": "1868MORA",
+        "name": "MORA",
+        "lastName": "RAMIREZ HERNANDO ANGEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98337898",
+        "shares": 23,
+        "id": 0,
+        "password": "9833MORA",
+        "name": "MORALES",
+        "lastName": "CADENA IGNACIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27393855",
+        "shares": 23,
+        "id": 0,
+        "password": "2739MORA",
+        "name": "MORAN",
+        "lastName": "DE REINA MA. MAGDALENA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5312387",
+        "shares": 23,
+        "id": 0,
+        "password": "5312MORA",
+        "name": "MORAN",
+        "lastName": "MORENO SIGIFREDO BENJAMIN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5197388",
+        "shares": 68,
+        "id": 0,
+        "password": "5197MORE",
+        "name": "MORENO",
+        "lastName": "CAMPO ELIAS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98364075",
+        "shares": 23,
+        "id": 0,
+        "password": "9836MORE",
+        "name": "MORENO",
+        "lastName": "CERON WILFREDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27395236",
+        "shares": 23,
+        "id": 0,
+        "password": "2739MORE",
+        "name": "MORENO",
+        "lastName": "EMPERATRIZ CECILIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36990661",
+        "shares": 23,
+        "id": 0,
+        "password": "3699MORI",
+        "name": "MORILLO",
+        "lastName": "ROSAlBINA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98363908",
+        "shares": 24,
+        "id": 0,
+        "password": "9836MORI",
+        "name": "MORILLO",
+        "lastName": "WILSON ALDEMAR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27079618",
+        "shares": 46,
+        "id": 0,
+        "password": "2707MUES",
+        "name": "MUESES",
+        "lastName": "DE BENITEZ FLOR ALBA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37123497",
+        "shares": 23,
+        "id": 0,
+        "password": "3712MUES",
+        "name": "MUESES",
+        "lastName": "PINCHAO YOMAIRA DEL CARMEN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36994493",
+        "shares": 15,
+        "id": 0,
+        "password": "3699MUES",
+        "name": "MUESES",
+        "lastName": "ROSA MARIELA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13014356",
+        "shares": 915,
+        "id": 0,
+        "password": "1301MUÑO",
+        "name": "MUÑOZ",
+        "lastName": "MANUEL MESIAS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13011682",
+        "shares": 47,
+        "id": 0,
+        "password": "1301MUÑO",
+        "name": "MUÑOZ",
+        "lastName": "MIÑO FABIAN EFREN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13012944",
+        "shares": 69,
+        "id": 0,
+        "password": "1301MUÑO",
+        "name": "MUÑOZ",
+        "lastName": "MIÑO FRANKLIN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36994779",
+        "shares": 23,
+        "id": 0,
+        "password": "3699MUÑO",
+        "name": "MUÑOZ",
+        "lastName": "ORTEGA BLANCA YOLANDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36997970",
+        "shares": 23,
+        "id": 0,
+        "password": "3699NARV",
+        "name": "NARVAEZ",
+        "lastName": "ALBA AURELIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "16237253",
+        "shares": 900,
+        "id": 0,
+        "password": "1623NARV",
+        "name": "NARVAEZ",
+        "lastName": "HERNANDEZ JOSE ALFONSO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5307196",
+        "shares": 23,
+        "id": 0,
+        "password": "5307NARV",
+        "name": "NARVAEZ",
+        "lastName": "JOSE GUILLERMO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37008262",
+        "shares": 46,
+        "id": 0,
+        "password": "3700NARV",
+        "name": "NARVAEZ",
+        "lastName": "LIDIA ESPERANZA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085904317",
+        "shares": 110,
+        "id": 0,
+        "password": "1085NARV",
+        "name": "NARVAEZ",
+        "lastName": "LOPEZ DARWIN EDUARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36860846",
+        "shares": 150,
+        "id": 0,
+        "password": "3686NARV",
+        "name": "NARVAEZ",
+        "lastName": "LOPEZ JOHANA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37124781",
+        "shares": 100,
+        "id": 0,
+        "password": "3712NARV",
+        "name": "NARVAEZ",
+        "lastName": "LOPEZ NELCI BEATRIZ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98337894",
+        "shares": 23,
+        "id": 0,
+        "password": "9833NARV",
+        "name": "NARVAEZ",
+        "lastName": "GARCIA JACINTO BERNABE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "17142704",
+        "shares": 23,
+        "id": 0,
+        "password": "1714NAST",
+        "name": "NASTAR",
+        "lastName": "JOSE FELIPE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13013158",
+        "shares": 23,
+        "id": 0,
+        "password": "1301NUÑE",
+        "name": "NUÑEZ",
+        "lastName": "VILLACRES EDUARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27246635",
+        "shares": 57,
+        "id": 0,
+        "password": "2724OBAN",
+        "name": "OBANDO",
+        "lastName": "DE MUÑOZ EMMA CECILIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36996342",
+        "shares": 23,
+        "id": 0,
+        "password": "3699OBAN",
+        "name": "OBANDO",
+        "lastName": "LOPEZ RUTH DEL CARMEN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13007310",
+        "shares": 58,
+        "id": 0,
+        "password": "1300OBAN",
+        "name": "OBANDO",
+        "lastName": "SALAZAR JORGE ENRIQUE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13009678",
+        "shares": 1294,
+        "id": 0,
+        "password": "1300ORTE",
+        "name": "ORTEGA",
+        "lastName": "ANTONIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13014271",
+        "shares": 25,
+        "id": 0,
+        "password": "1301ORTE",
+        "name": "ORTEGA",
+        "lastName": "NELSON SEGUNDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1082104067",
+        "shares": 23,
+        "id": 0,
+        "password": "1082ORTI",
+        "name": "ORTIZ",
+        "lastName": "VALENCIA ERIKA JULIAN Y OTRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085939644",
+        "shares": 23,
+        "id": 0,
+        "password": "1085OVIE",
+        "name": "OVIEDO",
+        "lastName": "BRAVO PAOLA ALEJANDRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98362075",
+        "shares": 23,
+        "id": 0,
+        "password": "9836PABO",
+        "name": "PABON",
+        "lastName": "VASQUEZ LUIS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37001137",
+        "shares": 23,
+        "id": 0,
+        "password": "3700PALA",
+        "name": "PALACIOS",
+        "lastName": "ERAZO MARIA DEL PILAR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5196849",
+        "shares": 7,
+        "id": 0,
+        "password": "5196PANT",
+        "name": "PANTOJA",
+        "lastName": "BASANTE VICENTE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36999686",
+        "shares": 23,
+        "id": 0,
+        "password": "3699PANT",
+        "name": "PANTOJA",
+        "lastName": "AMPARO DEL SOCORRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13007128",
+        "shares": 23,
+        "id": 0,
+        "password": "1300PANT",
+        "name": "PANTOJA",
+        "lastName": "NARVAEZ LUIS ALIRIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87717324",
+        "shares": 23,
+        "id": 0,
+        "password": "8771PANT",
+        "name": "PANTOJA",
+        "lastName": "TOBAR LUIS ENRIQUE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13003908",
+        "shares": 104,
+        "id": 0,
+        "password": "1300PARR",
+        "name": "PARRA",
+        "lastName": "ARCINIEGAS JORGE EDGAR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37005725",
+        "shares": 23,
+        "id": 0,
+        "password": "3700PARR",
+        "name": "PARRA",
+        "lastName": "CHACUA MIRIAM DEL CARMEN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212407",
+        "shares": 23,
+        "id": 0,
+        "password": "5212PAST",
+        "name": "PASTAS",
+        "lastName": "FELIX MA. NICOLAS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27394187",
+        "shares": 34,
+        "id": 0,
+        "password": "2739PAST",
+        "name": "PASTAS",
+        "lastName": "MARIELA DE JESUS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212754",
+        "shares": 23,
+        "id": 0,
+        "password": "5212PAST",
+        "name": "PASTAS",
+        "lastName": "SEGUNDO GERMAN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085920812",
+        "shares": 23,
+        "id": 0,
+        "password": "1085PATI",
+        "name": "PATIÑO",
+        "lastName": "CH. HUGO ANDRES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27387958",
+        "shares": 23,
+        "id": 0,
+        "password": "2738PATI",
+        "name": "PATIÑO",
+        "lastName": "JOSEFINA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37123861",
+        "shares": 345,
+        "id": 0,
+        "password": "3712PAZM",
+        "name": "PAZMIÑO",
+        "lastName": "ANA DELIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98338283",
+        "shares": 23,
+        "id": 0,
+        "password": "9833PITA",
+        "name": "PITACUAR",
+        "lastName": "CUASAPUD YIMY ALEXANDER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27252219",
+        "shares": 23,
+        "id": 0,
+        "password": "2725PAZM",
+        "name": "PAZMIÑO",
+        "lastName": "GABRIELA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "71776984",
+        "shares": 23,
+        "id": 0,
+        "password": "7177PERE",
+        "name": "PERENGUEZ",
+        "lastName": "WILSON ALEXANDER Y OTRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "21767043",
+        "shares": 68,
+        "id": 0,
+        "password": "2176PERE",
+        "name": "PEREZ",
+        "lastName": "DE GARCIA OLGA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13013172",
+        "shares": 23,
+        "id": 0,
+        "password": "1301PINC",
+        "name": "PINCHAO",
+        "lastName": "JOSE ANTONIO ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37120867",
+        "shares": 23,
+        "id": 0,
+        "password": "3712PIST",
+        "name": "PISTALA",
+        "lastName": "SILVIA NOHEMI Y JESUS PISTALA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "30744804",
+        "shares": 23,
+        "id": 0,
+        "password": "3074PORT",
+        "name": "PORTILLA",
+        "lastName": "GLORIA INES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5269515",
+        "shares": 24,
+        "id": 0,
+        "password": "5269PORT",
+        "name": "PORTILLA",
+        "lastName": "TUCANEZ JULIO Y OTRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27244436",
+        "shares": 23,
+        "id": 0,
+        "password": "2724POSS",
+        "name": "POSSO",
+        "lastName": "DE ROJAS EMMA LIGIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13004199",
+        "shares": 23,
+        "id": 0,
+        "password": "1300POTO",
+        "name": "POTOSI",
+        "lastName": "CHAMORRO LUIS ALFONSO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37001259",
+        "shares": 23,
+        "id": 0,
+        "password": "3700POTO",
+        "name": "POTOSI",
+        "lastName": "GLADYS ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37001692",
+        "shares": 23,
+        "id": 0,
+        "password": "3700POTO",
+        "name": "POTOSI",
+        "lastName": "KETTY RUTH",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13012651",
+        "shares": 23,
+        "id": 0,
+        "password": "1301POTO",
+        "name": "POTOSI",
+        "lastName": "VICENTE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "50641",
+        "shares": 23,
+        "id": 0,
+        "password": "5064PUEN",
+        "name": "PUENTE",
+        "lastName": "RENE ROLANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "9835748",
+        "shares": 23,
+        "id": 0,
+        "password": "9835QUEN",
+        "name": "QUENGUAN",
+        "lastName": "NIXO OLMEDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "2030694",
+        "shares": 23,
+        "id": 0,
+        "password": "2030QUIN",
+        "name": "QUINTERO",
+        "lastName": "GONZALO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13017511",
+        "shares": 65,
+        "id": 0,
+        "password": "1301QUIN",
+        "name": "QUINTERO",
+        "lastName": "POLO JAVIER ARMANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13013938",
+        "shares": 23,
+        "id": 0,
+        "password": "1301QUIÑ",
+        "name": "QUIÑONEZ",
+        "lastName": "JESUS ARMANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13008053",
+        "shares": 23,
+        "id": 0,
+        "password": "1300QUIR",
+        "name": "QUIROZ",
+        "lastName": "NARVAES JAIME BAYARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37000273",
+        "shares": 23,
+        "id": 0,
+        "password": "3700QUIÑ",
+        "name": "QUIÑONEZ",
+        "lastName": "REVELO GLORIA ESPERANZA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13008226",
+        "shares": 1861,
+        "id": 0,
+        "password": "1300QUIR",
+        "name": "QUIROZ",
+        "lastName": "LARA EDGAR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87713386",
+        "shares": 68,
+        "id": 0,
+        "password": "8771QUIR",
+        "name": "QUIROZ",
+        "lastName": "LEON HARVEY",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212645",
+        "shares": 23,
+        "id": 0,
+        "password": "5212QUIT",
+        "name": "QUITIAQUEZ",
+        "lastName": "CEBALLOS LUIS MANUEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27104655",
+        "shares": 23,
+        "id": 0,
+        "password": "2710QUIT",
+        "name": "QUITIAQUEZ",
+        "lastName": "MARIA ELOISA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "19132722",
+        "shares": 23,
+        "id": 0,
+        "password": "1913RAMI",
+        "name": "RAMIREZ",
+        "lastName": "ROBERTO EFRAIN Y OTRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36994943",
+        "shares": 7,
+        "id": 0,
+        "password": "3699RECA",
+        "name": "RECALDE",
+        "lastName": "MA. LUZMILA Y GERARDO HERRERA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13061470",
+        "shares": 23,
+        "id": 0,
+        "password": "1306REGA",
+        "name": "REGALADO",
+        "lastName": "FRANCO MIGUEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13014174",
+        "shares": 25,
+        "id": 0,
+        "password": "1301REVE",
+        "name": "REVELO",
+        "lastName": "GALO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5267146",
+        "shares": 23,
+        "id": 0,
+        "password": "5267REVE",
+        "name": "REVELO",
+        "lastName": "JESUS IDELFONSO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27386985",
+        "shares": 23,
+        "id": 0,
+        "password": "2738REVE",
+        "name": "REVELO",
+        "lastName": "OMAIRA Y DANIEL MARINO LOPEZ R.",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37012766",
+        "shares": 23,
+        "id": 0,
+        "password": "3701RIAS",
+        "name": "RIASCOS",
+        "lastName": "ANA MA. Y OTRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1087195033",
+        "shares": 23,
+        "id": 0,
+        "password": "1087RIAS",
+        "name": "RIASCOS",
+        "lastName": "TENGANAN EMMA CECILIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27253816",
+        "shares": 511,
+        "id": 0,
+        "password": "2725RIOS",
+        "name": "RIOS",
+        "lastName": "INES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5308595",
+        "shares": 153,
+        "id": 0,
+        "password": "5308RODR",
+        "name": "RODRIGUEZ",
+        "lastName": "BOLIVAR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13015654",
+        "shares": 23,
+        "id": 0,
+        "password": "1301RODR",
+        "name": "RODRIGUEZ",
+        "lastName": "FELIX OLIVIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37008119",
+        "shares": 41,
+        "id": 0,
+        "password": "3700RODR",
+        "name": "RODRIGUEZ",
+        "lastName": "NELCY ANGELICA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13008792",
+        "shares": 46,
+        "id": 0,
+        "password": "1300ROME",
+        "name": "ROMERO",
+        "lastName": "CHAVES EULER MIGUEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "20024606",
+        "shares": 23,
+        "id": 0,
+        "password": "2002ROSE",
+        "name": "ROSERO",
+        "lastName": "BOLAÑOS ISABEL Y OTRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27240068",
+        "shares": 137,
+        "id": 0,
+        "password": "2724ROSE",
+        "name": "ROSERO",
+        "lastName": "DE TORRES EVANGELINA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5308775",
+        "shares": 56,
+        "id": 0,
+        "password": "5308ROSE",
+        "name": "ROSERO",
+        "lastName": "JOSE MANUEL Y OTRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13003784",
+        "shares": 23,
+        "id": 0,
+        "password": "1300ROSE",
+        "name": "ROSERO",
+        "lastName": "LUIS ANGEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13006657",
+        "shares": 23,
+        "id": 0,
+        "password": "1300ROSE",
+        "name": "ROSERO",
+        "lastName": "PANTOJA ORLANDO Y ERICK",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98363801",
+        "shares": 23,
+        "id": 0,
+        "password": "9836ROSE",
+        "name": "ROSERO",
+        "lastName": "TAPIA JAIRO GIOVANNI",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085903582",
+        "shares": 23,
+        "id": 0,
+        "password": "1085ROSE",
+        "name": "ROSERO",
+        "lastName": "JULIAN FRANCISCO Y OTRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98363566",
+        "shares": 23,
+        "id": 0,
+        "password": "9836ROSE",
+        "name": "ROSERO",
+        "lastName": "USAMA JAIME",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5309819",
+        "shares": 23,
+        "id": 0,
+        "password": "5309RUAN",
+        "name": "RUANO",
+        "lastName": "CORAL ENRIQUE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "3044239",
+        "shares": 73,
+        "id": 0,
+        "password": "3044RUAN",
+        "name": "RUANO",
+        "lastName": "REVELO CARLOS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87718611",
+        "shares": 23,
+        "id": 0,
+        "password": "8771RUAN",
+        "name": "RUANO",
+        "lastName": "ROMAN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "93375110",
+        "shares": 23,
+        "id": 0,
+        "password": "9337RUAN",
+        "name": "RUANO",
+        "lastName": "WILLIAM EDUARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13016051",
+        "shares": 53,
+        "id": 0,
+        "password": "1301RUBI",
+        "name": "RUBIO",
+        "lastName": "RIGOBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27104824",
+        "shares": 23,
+        "id": 0,
+        "password": "2710SALA",
+        "name": "SALAZAR",
+        "lastName": "ANA LUCIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5309392",
+        "shares": 47,
+        "id": 0,
+        "password": "5309SALA",
+        "name": "SALAZAR",
+        "lastName": "LUIS ANTONIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "14944587",
+        "shares": 23,
+        "id": 0,
+        "password": "1494SANC",
+        "name": "SANCHEZ",
+        "lastName": "RENE GIRALDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13006550",
+        "shares": 3315,
+        "id": 0,
+        "password": "1300SAND",
+        "name": "SANDOVAL",
+        "lastName": "CESAR EDUARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13005056",
+        "shares": 500,
+        "id": 0,
+        "password": "1300SAND",
+        "name": "SANDOVAL",
+        "lastName": "FERNANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13012610",
+        "shares": 2000,
+        "id": 0,
+        "password": "1301SAND",
+        "name": "SANDOVAL",
+        "lastName": "GONZALO ALIRIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13011408",
+        "shares": 1000,
+        "id": 0,
+        "password": "1301SANV",
+        "name": "SANVODAL",
+        "lastName": "MIGUEL ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13006602",
+        "shares": 241,
+        "id": 0,
+        "password": "1300SUAR",
+        "name": "SUAREZ",
+        "lastName": "CHUGA JOSE ARNULFO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13004170",
+        "shares": 23,
+        "id": 0,
+        "password": "1300SUAR",
+        "name": "SUAREZ",
+        "lastName": "MARCO FIDEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36992131",
+        "shares": 50,
+        "id": 0,
+        "password": "3699TACA",
+        "name": "TACAN",
+        "lastName": "NELLY DEL CARMEN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212935",
+        "shares": 23,
+        "id": 0,
+        "password": "5212TAQU",
+        "name": "TAQUEZ",
+        "lastName": "QUITIAQUEZ MARCELO RIVELINO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1847755",
+        "shares": 23,
+        "id": 0,
+        "password": "1847TARA",
+        "name": "TARAPUEZ",
+        "lastName": "JOSE JOAQUIN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98364801",
+        "shares": 18,
+        "id": 0,
+        "password": "9836TEPU",
+        "name": "TEPUD",
+        "lastName": "SERVIO ANTONIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1870171",
+        "shares": 23,
+        "id": 0,
+        "password": "1870TERM",
+        "name": "TERMAL",
+        "lastName": "LUIS ANTONIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "12963731",
+        "shares": 23,
+        "id": 0,
+        "password": "1296TOBA",
+        "name": "TOBAR",
+        "lastName": "CALVACHE EDGAR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98337208",
+        "shares": 23,
+        "id": 0,
+        "password": "9833TOBA",
+        "name": "TOBAR",
+        "lastName": "JOSE CLEMENTE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37002471",
+        "shares": 23,
+        "id": 0,
+        "password": "3700TORO",
+        "name": "TORO",
+        "lastName": "DORIS AMANDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98362562",
+        "shares": 24,
+        "id": 0,
+        "password": "9836TORO",
+        "name": "TORO",
+        "lastName": "IBARRA ORLANDO EMILIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98362675",
+        "shares": 23,
+        "id": 0,
+        "password": "9836TORO",
+        "name": "TORO",
+        "lastName": "PABLO FABIAN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36999717",
+        "shares": 90,
+        "id": 0,
+        "password": "3699TORR",
+        "name": "TORRES",
+        "lastName": "HERRERA MARTHA LUCIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5267724",
+        "shares": 67,
+        "id": 0,
+        "password": "5267TORR",
+        "name": "TORRES",
+        "lastName": "ROSERO AQUILES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13014817",
+        "shares": 23,
+        "id": 0,
+        "password": "1301TREJ",
+        "name": "TREJO",
+        "lastName": "ARCINIEGAS LUIS ALBERTO ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87217913",
+        "shares": 23,
+        "id": 0,
+        "password": "8721TUCA",
+        "name": "TUCANES",
+        "lastName": "TUCANEZ JORGE ORLANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87715321",
+        "shares": 47,
+        "id": 0,
+        "password": "8771TULC",
+        "name": "TULCAN",
+        "lastName": "ARTEAGA JOSE ANTONIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36992605",
+        "shares": 23,
+        "id": 0,
+        "password": "3699TULC",
+        "name": "TULCAN",
+        "lastName": "DE TAQUEZ CLEMENCIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13004951",
+        "shares": 47,
+        "id": 0,
+        "password": "1300TULC",
+        "name": "TULCAN",
+        "lastName": "LUIS EFRAIN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13011345",
+        "shares": 47,
+        "id": 0,
+        "password": "1301TUPU",
+        "name": "TUPUE",
+        "lastName": "TUPUE GRACIANO JESUS ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "12116707",
+        "shares": 23,
+        "id": 0,
+        "password": "1211TUPU",
+        "name": "TUPUE",
+        "lastName": "TUPUE MOISES FILEMON",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1810024",
+        "shares": 24,
+        "id": 0,
+        "password": "1810UNIG",
+        "name": "UNIGARRO",
+        "lastName": "ABRAHAM EDMUNDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5311858",
+        "shares": 46,
+        "id": 0,
+        "password": "5311USAM",
+        "name": "USAMA",
+        "lastName": "JUAN BERNARDINO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98364000",
+        "shares": 23,
+        "id": 0,
+        "password": "9836USAM",
+        "name": "USAMA",
+        "lastName": "WLLIAM Y JOHANA AUX",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5212019",
+        "shares": 23,
+        "id": 0,
+        "password": "5212VALE",
+        "name": "VALENCIA",
+        "lastName": "LUCIO OLEGARIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27104719",
+        "shares": 100,
+        "id": 0,
+        "password": "2710VALE",
+        "name": "VALENCIA",
+        "lastName": "MALDONADO IRMA DEL PILAR ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13017416",
+        "shares": 23,
+        "id": 0,
+        "password": "1301VALE",
+        "name": "VALENCIA",
+        "lastName": "TOBAR MIGUEL ANGEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "3700868",
+        "shares": 23,
+        "id": 0,
+        "password": "3700VALL",
+        "name": "VALLEJO",
+        "lastName": "ACOSTA MARTHA ELINA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13011334",
+        "shares": 119,
+        "id": 0,
+        "password": "1301VALL",
+        "name": "VALLEJO",
+        "lastName": "LEANDRO RAMON",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37006025",
+        "shares": 23,
+        "id": 0,
+        "password": "3700VALL",
+        "name": "VALLEJO",
+        "lastName": "MONICA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13004516",
+        "shares": 37,
+        "id": 0,
+        "password": "1300VALL",
+        "name": "VALLEJO",
+        "lastName": "OBANDO FABIO FERNANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36931953",
+        "shares": 23,
+        "id": 0,
+        "password": "3693VALL",
+        "name": "VALLEJO",
+        "lastName": "QUILACHAMIN ROSA ANGELICA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13012381",
+        "shares": 23,
+        "id": 0,
+        "password": "1301VALL",
+        "name": "VALLEJO",
+        "lastName": "VALLEJO JOSE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37002858",
+        "shares": 23,
+        "id": 0,
+        "password": "3700VELA",
+        "name": "VELA",
+        "lastName": "ELISA ESPERANZA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5307327",
+        "shares": 26,
+        "id": 0,
+        "password": "5307VELA",
+        "name": "VELASCO",
+        "lastName": "DAVID",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87712336",
+        "shares": 100,
+        "id": 0,
+        "password": "8771VELA",
+        "name": "VELASCO",
+        "lastName": "FABIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13006490",
+        "shares": 23,
+        "id": 0,
+        "password": "1300VELA",
+        "name": "VELASCO",
+        "lastName": "FEDERICO Y JOSE E. NARVAEZ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "34556678",
+        "shares": 23,
+        "id": 0,
+        "password": "3455VELA",
+        "name": "VELASCO",
+        "lastName": "NARVAEZ NANCY",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27388023",
+        "shares": 23,
+        "id": 0,
+        "password": "2738VILL",
+        "name": "VILLACORTE",
+        "lastName": "ADIELA DEL CARMEN Y OTRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1086104883",
+        "shares": 23,
+        "id": 0,
+        "password": "1086VILL",
+        "name": "VILLARREAL",
+        "lastName": "BENAVIDES  DIEGO ROMAN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87068637",
+        "shares": 23,
+        "id": 0,
+        "password": "8706VILL",
+        "name": "VILLARREAL",
+        "lastName": "BENAVIDES GERMAN ARTURO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87104993",
+        "shares": 23,
+        "id": 0,
+        "password": "8710VILL",
+        "name": "VILLARREAL",
+        "lastName": "BENAVIDES WILSON GEOVANNI",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13008006",
+        "shares": 23,
+        "id": 0,
+        "password": "1300VILL",
+        "name": "VILLARREAL",
+        "lastName": "DAVID ERNESTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13252920",
+        "shares": 50,
+        "id": 0,
+        "password": "1325VILL",
+        "name": "VILLARREAL",
+        "lastName": "JORGE ADALBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27388434",
+        "shares": 46,
+        "id": 0,
+        "password": "2738VILL",
+        "name": "VILLARREAL",
+        "lastName": "LUCIA  ",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5309671",
+        "shares": 23,
+        "id": 0,
+        "password": "5309VILL",
+        "name": "VILLARREAL",
+        "lastName": "LUIS FELIPE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13005583",
+        "shares": 23,
+        "id": 0,
+        "password": "1300VILL",
+        "name": "VILLOTA",
+        "lastName": "ALVARADO EFRAIN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36994303",
+        "shares": 23,
+        "id": 0,
+        "password": "3699VILL",
+        "name": "VILLOTA",
+        "lastName": "MEJIA DORIS MARLENE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13011493",
+        "shares": 137,
+        "id": 0,
+        "password": "1301VILL",
+        "name": "VILLOTA",
+        "lastName": "OSCAR JAVIER Y NANCY BETANCOURTH",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37004402",
+        "shares": 23,
+        "id": 0,
+        "password": "3700VIVA",
+        "name": "VIVAS",
+        "lastName": "ESTRADA LUZ CARMEN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37014261",
+        "shares": 23,
+        "id": 0,
+        "password": "3701VIVA",
+        "name": "VIVAS",
+        "lastName": "SANDRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87715455",
+        "shares": 23,
+        "id": 0,
+        "password": "8771YAND",
+        "name": "YANDUN",
+        "lastName": "BENAVIDES JOSE JAVIER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13014711",
+        "shares": 23,
+        "id": 0,
+        "password": "1301YAND",
+        "name": "YANDUN",
+        "lastName": "BENAVIDES ROBERTO E.",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87713849",
+        "shares": 23,
+        "id": 0,
+        "password": "8771YEPE",
+        "name": "YEPEZ",
+        "lastName": "ANDRES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13003467",
+        "shares": 46,
+        "id": 0,
+        "password": "1300YEPE",
+        "name": "YEPEZ",
+        "lastName": "PORTILLA JORGE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27104751",
+        "shares": 23,
+        "id": 0,
+        "password": "2710ARAN",
+        "name": "ARANGO",
+        "lastName": "CUASTUMAL ALBA YOLANDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37000831",
+        "shares": 23,
+        "id": 0,
+        "password": "3700AREV",
+        "name": "AREVALO",
+        "lastName": "CISNEROS SILVIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085914904",
+        "shares": 10,
+        "id": 0,
+        "password": "1085ARTE",
+        "name": "ARTEAGA",
+        "lastName": "MORAN ERIKA ELIZABETH Y OTRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87714077",
+        "shares": 46,
+        "id": 0,
+        "password": "8771ASMA",
+        "name": "ASMAZA",
+        "lastName": "CUACES ALFONSO DEMECIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87216877",
+        "shares": 23,
+        "id": 0,
+        "password": "8721ASMA",
+        "name": "ASMAZA",
+        "lastName": "PORTILLO JOHN JAIRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1004579479",
+        "shares": 23,
+        "id": 0,
+        "password": "1004ATIS",
+        "name": "ATIS",
+        "lastName": "ROSERO DAVID JAVIER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1004577037",
+        "shares": 77,
+        "id": 0,
+        "password": "1004BENI",
+        "name": "BENITEZ",
+        "lastName": "PIZAN OSCAR DANIEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27245735",
+        "shares": 23,
+        "id": 0,
+        "password": "2724BOLA",
+        "name": "BOLAÑOS",
+        "lastName": "DE SALAZAR LUZ MARIA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87717836",
+        "shares": 45,
+        "id": 0,
+        "password": "8771CABR",
+        "name": "CABRERA",
+        "lastName": "LUIS HENRY",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085934163",
+        "shares": 23,
+        "id": 0,
+        "password": "1085CABR",
+        "name": "CABRERA",
+        "lastName": "PINO OSCAR FERNEY",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98344764",
+        "shares": 23,
+        "id": 0,
+        "password": "9834CHAC",
+        "name": "CHACUA",
+        "lastName": "TONGUINO ADOLFO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085933617",
+        "shares": 23,
+        "id": 0,
+        "password": "1085CAÑI",
+        "name": "CAÑISARES",
+        "lastName": "GARCIA JHONNY ALEXANDER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98417330",
+        "shares": 23,
+        "id": 0,
+        "password": "9841CHAL",
+        "name": "CHALAPUD",
+        "lastName": "CHAMORRO LUIS HERNAN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "12967279",
+        "shares": 23,
+        "id": 0,
+        "password": "1296CHAM",
+        "name": "CHAMORRO",
+        "lastName": "ROSERO MIGUEL OSWALDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085933309",
+        "shares": 23,
+        "id": 0,
+        "password": "1085CHAV",
+        "name": "CHAVISNAN",
+        "lastName": "QUIÑONEZ LEIDY JOHANA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37011902",
+        "shares": 46,
+        "id": 0,
+        "password": "3701CORT",
+        "name": "CORTEZ",
+        "lastName": "NELLY YOLANDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36009137",
+        "shares": 23,
+        "id": 0,
+        "password": "3600CUAS",
+        "name": "CUASPUD",
+        "lastName": "ENRIQUEZ MARIBEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085912641",
+        "shares": 23,
+        "id": 0,
+        "password": "1085CUAS",
+        "name": "CUASTUMAL",
+        "lastName": "HERRERA WEIMAR LEANDRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87714406",
+        "shares": 23,
+        "id": 0,
+        "password": "8771CUAS",
+        "name": "CUASTUMAL",
+        "lastName": "YANDUN CLELIO ARMANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5269424",
+        "shares": 23,
+        "id": 0,
+        "password": "5269CARL",
+        "name": "CARLOS",
+        "lastName": "LEODAN ENRIQUEZ RIASCOS",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1007190467",
+        "shares": 23,
+        "id": 0,
+        "password": "1007ERAZ",
+        "name": "ERAZO",
+        "lastName": "MAYERLÍN ADELA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13012612",
+        "shares": 23,
+        "id": 0,
+        "password": "1301ERAZ",
+        "name": "ERAZO",
+        "lastName": "PORTILLA FABIO HERNANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1809599",
+        "shares": 30,
+        "id": 0,
+        "password": "1809ERIR",
+        "name": "ERIRA",
+        "lastName": "JORGE ANGEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13015372",
+        "shares": 23,
+        "id": 0,
+        "password": "1301ESCO",
+        "name": "ESCOBAR",
+        "lastName": "GUERRERO HIDELFONSO SIGIFREDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "59834354",
+        "shares": 684,
+        "id": 0,
+        "password": "5983ESCU",
+        "name": "ESCUDERO",
+        "lastName": "MENDEZ ANA MILENA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27250178",
+        "shares": 23,
+        "id": 0,
+        "password": "2725ESTU",
+        "name": "ESTUPIÑAN",
+        "lastName": "ANA CRISTINA Y OTRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085896355",
+        "shares": 23,
+        "id": 0,
+        "password": "1085FIGU",
+        "name": "FIGUEROA",
+        "lastName": "MUESES JHON ALEX",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5254914",
+        "shares": 47,
+        "id": 0,
+        "password": "5254FUEL",
+        "name": "FUELAGAN",
+        "lastName": "CHINGAL JHON JAIRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1127812508",
+        "shares": 23,
+        "id": 0,
+        "password": "1127GORD",
+        "name": "GORDON",
+        "lastName": "ESTRADA STEFANNY MARICELA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1022381908",
+        "shares": 23,
+        "id": 0,
+        "password": "1022GUAM",
+        "name": "GUAMANZAR",
+        "lastName": "BRAVO KARINA ISABEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37121454",
+        "shares": 23,
+        "id": 0,
+        "password": "3712GUAR",
+        "name": "GUARAMA",
+        "lastName": "BENAVIDES LUZ MARY DEL CARMEN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "38999010",
+        "shares": 240,
+        "id": 0,
+        "password": "3899HERR",
+        "name": "HERRERA",
+        "lastName": "DE TORRES BLANCA NIEVES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37008526",
+        "shares": 23,
+        "id": 0,
+        "password": "3700HERN",
+        "name": "HERNANDEZ",
+        "lastName": "YANDUN ARMIRA JANETH",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "27105422",
+        "shares": 23,
+        "id": 0,
+        "password": "2710IBAC",
+        "name": "IBACUAN",
+        "lastName": "ORTIZ BLANCA ISABEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1192808859",
+        "shares": 23,
+        "id": 0,
+        "password": "1192IPIA",
+        "name": "IPIAL",
+        "lastName": "PISTALA BRAYAN LUIS STIVEN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87215227",
+        "shares": 46,
+        "id": 0,
+        "password": "8721JARA",
+        "name": "JARAMILLO",
+        "lastName": "CESAR ESTEBAN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87715603",
+        "shares": 23,
+        "id": 0,
+        "password": "8771LUCE",
+        "name": "LUCERO",
+        "lastName": "HOMERO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87217159",
+        "shares": 23,
+        "id": 0,
+        "password": "8721MENE",
+        "name": "MENESES",
+        "lastName": "YEPEZ HERMES FABIAN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36997750",
+        "shares": 23,
+        "id": 0,
+        "password": "3699MONT",
+        "name": "MONTENEGRO",
+        "lastName": "DE DE LA CRUZ GLORIA MARIBEL",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085953276",
+        "shares": 6842,
+        "id": 0,
+        "password": "1085MONT",
+        "name": "MONTENEGRO",
+        "lastName": "RUEDA LISBETH JAHAYRA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98343455",
+        "shares": 46,
+        "id": 0,
+        "password": "9834MONT",
+        "name": "MONTENEGRO",
+        "lastName": "RODRIGUEZ JAIRO ALIRIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13016259",
+        "shares": 34,
+        "id": 0,
+        "password": "1301MORA",
+        "name": "MORAN",
+        "lastName": "GOMEZ FREDI ALIRIO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "13014218",
+        "shares": 23,
+        "id": 0,
+        "password": "1301MORE",
+        "name": "MORENO",
+        "lastName": "LUIS EDUARDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085931487",
+        "shares": 23,
+        "id": 0,
+        "password": "1085MORI",
+        "name": "MORILLO",
+        "lastName": "NARVAEZ ANA CRISTINA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1086754380",
+        "shares": 23,
+        "id": 0,
+        "password": "1086ORTE",
+        "name": "ORTEGA",
+        "lastName": "OSCAR JAVIER",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36992285",
+        "shares": 23,
+        "id": 0,
+        "password": "3699PINC",
+        "name": "PINCHAO",
+        "lastName": "CHACUA ELIDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36996597",
+        "shares": 23,
+        "id": 0,
+        "password": "3699POSS",
+        "name": "POSSO",
+        "lastName": "BUSTOS CARLINA MARLENE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98357448",
+        "shares": 23,
+        "id": 0,
+        "password": "9835QUEN",
+        "name": "QUENGUAN",
+        "lastName": "NIXON OLMEDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "36993943",
+        "shares": 7,
+        "id": 0,
+        "password": "3699RECA",
+        "name": "RECALDE",
+        "lastName": "MARIA LUZMILA Y OTRO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1085904431",
+        "shares": 46,
+        "id": 0,
+        "password": "1085SAND",
+        "name": "SANDOVAL",
+        "lastName": "MONTENEGRO ANA CRISTINA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5268260",
+        "shares": 23,
+        "id": 0,
+        "password": "5268SUAR",
+        "name": "SUAREZ",
+        "lastName": "CUASMAYAN WILSON FABIAN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87218742",
+        "shares": 23,
+        "id": 0,
+        "password": "8721TEPU",
+        "name": "TEPUD",
+        "lastName": "CUASPUD WILMER HERNAN",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "98362546",
+        "shares": 23,
+        "id": 0,
+        "password": "9836TEPU",
+        "name": "TEPUD",
+        "lastName": "TARAPUES SERVIO ARMANDO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "5266724",
+        "shares": 67,
+        "id": 0,
+        "password": "5266TORR",
+        "name": "TORRES",
+        "lastName": "ROSERO AQUILES",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87717580",
+        "shares": 47,
+        "id": 0,
+        "password": "8771TULC",
+        "name": "TULCAN",
+        "lastName": "LUIS NICANOR",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87216678",
+        "shares": 25,
+        "id": 0,
+        "password": "8721VALL",
+        "name": "VALLEJO",
+        "lastName": "DANY JOSE",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "12252920",
+        "shares": 50,
+        "id": 0,
+        "password": "1225VILL",
+        "name": "VILLARREAL",
+        "lastName": "JORGE ADALBERTO",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "37124550",
+        "shares": 23,
+        "id": 0,
+        "password": "3712YAND",
+        "name": "YANDUN",
+        "lastName": "RUANO ROSA YOLANDA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "1004534690",
+        "shares": 40,
+        "id": 0,
+        "password": "1004YAPU",
+        "name": "YAPUD",
+        "lastName": "INCHUCHALA DIANA CAROLINA",
+        "role": "voter",
+        "isActive": true
+    },
+    {
+        "code": "87215087",
+        "shares": 23,
+        "id": 0,
+        "password": "8721YELA",
+        "name": "YELA",
+        "lastName": "PORTILLA JESUS",
+        "role": "voter",
+        "isActive": true
+    }
+]

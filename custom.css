@@ -1,0 +1,311 @@
+/* =============================================
+   VOTES APP - Custom UI Enhancement
+   ============================================= */
+
+:root {
+  --ion-color-primary: #4f46e5;
+  --ion-color-primary-rgb: 79, 70, 229;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-shade: #4338ca;
+  --ion-color-primary-tint: #6366f1;
+  --custom-gradient: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+  --custom-card-shadow: 0 4px 20px rgba(79,70,229,0.12);
+  --custom-card-hover: 0 8px 32px rgba(79,70,229,0.22);
+  --custom-radius: 16px;
+  --custom-radius-sm: 10px;
+  --custom-surface: #f8f7ff;
+  --menu-width: 260px;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --custom-surface: #18181f; }
+}
+
+/* =============================================
+   HEADER
+   ============================================= */
+ion-toolbar {
+  --background: var(--custom-gradient) !important;
+  --color: #fff !important;
+  --border-width: 0 !important;
+  box-shadow: 0 2px 16px rgba(79,70,229,0.25) !important;
+}
+ion-title { font-weight: 700 !important; font-size: 1.2rem !important; }
+ion-back-button  { --color: #fff !important; }
+ion-menu-button  { --color: #fff !important; }
+ion-toolbar ion-button { --color: #fff !important; }
+ion-toolbar ion-icon   { color: #fff !important; }
+
+/* =============================================
+   SEARCHBAR
+   ============================================= */
+ion-searchbar {
+  --background: rgba(255,255,255,0.12) !important;
+  --color: #fff !important;
+  --placeholder-color: rgba(255,255,255,0.65) !important;
+  --icon-color: rgba(255,255,255,0.75) !important;
+  --border-radius: 12px !important;
+  --box-shadow: none !important;
+  padding: 4px 12px 8px !important;
+}
+
+/* =============================================
+   CONTENT
+   ============================================= */
+ion-content {
+  --background: var(--custom-surface) !important;
+}
+ion-content::part(scroll) { scroll-behavior: smooth; }
+
+/* =============================================
+   MENÚ LATERAL
+   ============================================= */
+
+/* Cuando el split-pane está activo (clase .split-pane-visible),
+   el menú aparece como sidebar. Ionic lo gestiona automáticamente
+   cuando when="md" (ver desktop-fix.js) */
+ion-split-pane {
+  --side-width: var(--menu-width) !important;
+  --side-max-width: var(--menu-width) !important;
+  --side-min-width: 220px !important;
+}
+
+/* Ocultar el hamburger cuando el split-pane está visible */
+.split-pane-visible ion-menu-button {
+  display: none !important;
+}
+
+/* Cabecera del menú */
+ion-menu ion-toolbar {
+  --background: var(--custom-gradient) !important;
+  --min-height: 64px !important;
+}
+ion-menu ion-title {
+  color: #fff !important;
+  font-size: 1.1rem !important;
+}
+
+/* Cuerpo del menú */
+ion-menu ion-content {
+  --background: #ffffff !important;
+}
+@media (prefers-color-scheme: dark) {
+  ion-menu ion-content { --background: #1a1a2e !important; }
+}
+
+ion-menu ion-list {
+  padding: 12px 10px !important;
+  background: transparent !important;
+}
+
+/* Items del menú - resetear TODO antes de aplicar estilos */
+ion-menu ion-button,
+ion-menu ion-menu-toggle ion-button {
+  all: unset !important;
+  display: flex !important;
+  align-items: center !important;
+  width: 100% !important;
+  height: 48px !important;
+  padding: 0 14px !important;
+  margin: 3px 0 !important;
+  border-radius: 10px !important;
+  cursor: pointer !important;
+  font-size: 0.95rem !important;
+  font-weight: 600 !important;
+  color: #374151 !important;
+  background: transparent !important;
+  box-sizing: border-box !important;
+  transition: background 0.15s ease !important;
+  text-decoration: none !important;
+}
+
+ion-menu ion-button:hover,
+ion-menu ion-menu-toggle ion-button:hover {
+  background: rgba(79,70,229,0.09) !important;
+  color: var(--ion-color-primary) !important;
+}
+
+ion-menu ion-button ion-icon,
+ion-menu ion-menu-toggle ion-button ion-icon {
+  color: var(--ion-color-primary) !important;
+  font-size: 1.25rem !important;
+  margin-right: 12px !important;
+  flex-shrink: 0 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  ion-menu ion-button,
+  ion-menu ion-menu-toggle ion-button {
+    color: #e0e7ff !important;
+  }
+}
+
+/* Divider en el menú */
+ion-menu ion-list-header {
+  font-size: 0.75rem !important;
+  font-weight: 700 !important;
+  color: #9ca3af !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.8px !important;
+  padding: 16px 14px 6px !important;
+}
+
+/* =============================================
+   LISTA DE ENCUESTAS - solo el listado
+   ============================================= */
+.surveys-list {
+  padding: 16px !important;
+  padding-bottom: 80px !important;
+  background: transparent !important;
+}
+
+.surveys-list ion-item {
+  --background: #ffffff !important;
+  --border-radius: var(--custom-radius) !important;
+  --border-color: transparent !important;
+  --border-width: 0 !important;
+  --inner-border-width: 0 !important;
+  --padding-start: 18px !important;
+  --padding-end: 12px !important;
+  --padding-top: 14px !important;
+  --padding-bottom: 14px !important;
+  --inner-padding-end: 0 !important;
+  margin-bottom: 12px !important;
+  border-radius: var(--custom-radius) !important;
+  box-shadow: var(--custom-card-shadow) !important;
+  border-left: 4px solid var(--ion-color-primary) !important;
+  animation: slideInUp 0.3s ease both;
+  transition: box-shadow 0.2s ease, transform 0.2s ease !important;
+  overflow: hidden !important;
+}
+.surveys-list ion-item:hover {
+  box-shadow: var(--custom-card-hover) !important;
+  transform: translateY(-2px) !important;
+}
+@media (prefers-color-scheme: dark) {
+  .surveys-list ion-item { --background: #23233a !important; }
+}
+
+.surveys-list ion-item:nth-child(1)  { animation-delay: 0.03s; }
+.surveys-list ion-item:nth-child(2)  { animation-delay: 0.06s; }
+.surveys-list ion-item:nth-child(3)  { animation-delay: 0.09s; }
+.surveys-list ion-item:nth-child(4)  { animation-delay: 0.12s; }
+.surveys-list ion-item:nth-child(5)  { animation-delay: 0.15s; }
+.surveys-list ion-item:nth-child(6)  { animation-delay: 0.18s; }
+.surveys-list ion-item:nth-child(7)  { animation-delay: 0.21s; }
+.surveys-list ion-item:nth-child(8)  { animation-delay: 0.24s; }
+.surveys-list ion-item:nth-child(9)  { animation-delay: 0.27s; }
+.surveys-list ion-item:nth-child(10) { animation-delay: 0.30s; }
+
+.surveys-list ion-label h2 {
+  font-size: 1rem !important; font-weight: 700 !important; line-height: 1.4 !important;
+}
+.surveys-list ion-label p {
+  font-size: 0.85rem !important; color: #6b7280 !important;
+  line-height: 1.5 !important; white-space: normal !important;
+}
+
+/* Grid en desktop */
+@media (min-width: 768px) {
+  .surveys-list {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)) !important;
+    gap: 16px !important;
+    align-items: start !important;
+  }
+  .surveys-list ion-item { margin-bottom: 0 !important; height: 100% !important; }
+}
+@media (min-width: 1200px) {
+  .surveys-list {
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)) !important;
+    padding: 24px !important;
+    padding-bottom: 80px !important;
+  }
+}
+
+/* =============================================
+   FORMULARIOS
+   ============================================= */
+.survey-form ion-item,
+.answers-wrapper ion-item,
+form ion-item {
+  --background: #ffffff !important;
+  --border-radius: var(--custom-radius-sm) !important;
+  --border-color: rgba(79,70,229,0.2) !important;
+  --border-width: 1px !important;
+  --inner-border-width: 0 !important;
+  margin-bottom: 10px !important;
+  border-radius: var(--custom-radius-sm) !important;
+  box-shadow: none !important;
+  border-left: none !important;
+  animation: none !important;
+  overflow: visible !important;
+  transform: none !important;
+}
+@media (prefers-color-scheme: dark) {
+  .survey-form ion-item,
+  .answers-wrapper ion-item,
+  form ion-item { --background: #23233a !important; }
+}
+
+.answers-wrapper {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  width: 100% !important;
+  padding: 8px 0 4px !important;
+}
+.answers-wrapper h2 {
+  font-size: 1rem !important;
+  font-weight: 700 !important;
+  color: var(--ion-color-primary) !important;
+  padding: 8px 16px 4px !important;
+  margin: 0 !important;
+}
+
+@media (min-width: 768px) {
+  app-add-survey ion-content form,
+  app-edit-survey ion-content form {
+    max-width: 680px !important;
+    margin: 0 auto !important;
+    padding: 24px !important;
+  }
+}
+
+/* =============================================
+   FAB & BOTONES
+   ============================================= */
+ion-fab-button {
+  --background: var(--custom-gradient) !important;
+  --box-shadow: 0 6px 24px rgba(79,70,229,0.45) !important;
+  --border-radius: 16px !important;
+  transition: transform 0.2s ease !important;
+}
+ion-fab-button:hover { transform: scale(1.08) !important; }
+
+ion-badge {
+  border-radius: 20px !important;
+  padding: 4px 12px !important;
+  font-size: 0.75rem !important;
+  font-weight: 600 !important;
+}
+
+.noSurveys {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 60px 24px !important;
+  text-align: center !important;
+  color: #9ca3af !important;
+}
+
+ion-spinner { --color: var(--ion-color-primary) !important; }
+ion-refresher { --color: var(--ion-color-primary) !important; }
+
+/* =============================================
+   ANIMACIÓN
+   ============================================= */
+@keyframes slideInUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}

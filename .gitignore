@@ -1,0 +1,17 @@
+# Python environment
+.venv/
+
+# Node modules
+backend-src/node_modules/
+
+# build artifacts
+frontend-dist/
+
+# archives
+*.tar.gz
+
+# Docker volumes / data
+votesdb/
+
+# Editor files
+*.swp

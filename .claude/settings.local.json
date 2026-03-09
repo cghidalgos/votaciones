@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker cp /Users/cgiohidalgos/Downloads/votaciones/custom.css votaciones-frontend-1:/usr/share/nginx/html/custom.css)"
+    ]
+  }
+}

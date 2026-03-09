@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16
+    restart: always
+    environment:
+      POSTGRES_DB: votes_db
+      POSTGRES_USER: votes_admin_db
+      POSTGRES_PASSWORD: votes_admin
+    volumes:
+      - votesdb:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5433:5432"
+
+  backend:
+    build:
+      context: .
+      dockerfile: backend-src/dockerfile
+    restart: always
+    ports:
+      - "3000:3000"
+    depends_on:
+      - postgres
+    environment:
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_USERNAME: votes_admin_db
+      DB_PASSWORD: votes_admin
+      DB_NAME: votes_db
+      JWT_SECRET: nvAle5FZf+fABaQQVBo1HswZGWp27aq5dXseXG2kzzw=
+      JWT_EXPIRATION_TIME: 1d
+
+volumes:
+  votesdb:
