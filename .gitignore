@@ -5,7 +5,11 @@
 backend-src/node_modules/
 
 # build artifacts
-frontend-dist/
+# frontend-dist contains the compiled SPA that needs to be
+# deployed with the backend.  We previously ignored the whole
+# directory, which prevented Render from seeing the files.
+# Remove the ignore; files can be regenerated locally if necessary.
+
 
 # archives
 *.tar.gz
