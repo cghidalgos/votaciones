@@ -41,6 +41,71 @@ En el build original la barra lateral (`ion-menu`) sólo se mostraba en pantalla
 
 Ambos ficheros se copian desde la carpeta raíz al build frontend y se incluyen en `index.html`. Si reconstruyes el frontend, no olvides copiar estos archivos al dist y seguir el mismo patrón de importación para que las opciones del menú se vean en pantalla grande.
 
+---
+
+## Manual de usuario
+
+A continuación se describen los pasos básicos para usar la aplicación, tanto desde la perspectiva de un votante como de un administrador.
+
+### 1. Arrancar la aplicación
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/cghidalgos/votaciones.git
+   cd votaciones
+   ```
+2. Construir y arrancar los contenedores:
+   ```bash
+   docker compose build
+   docker compose up -d
+   ```
+3. La aplicación quedará disponible en `http://localhost:3000` (puerto configurable).
+
+> **Nota:** la primera vez se crea y rellena la base de datos con un usuario administrdor (`12345678` / `12345678`).
+
+### 2. Iniciar sesión (común)
+
+- Abrir el navegador en `http://localhost:3000`.
+- Introducir el número de cédula y la contraseña en la pantalla de login.
+- Pulsar _Iniciar sesión_.
+- Dependiendo del rol del usuario se redirige a la página de votante o a la administración.
+
+> Si las credenciales son incorrectas, se mostrará un mensaje de error. El campo de cédula sólo acepta números.
+
+### 3. Votante
+
+Una vez logueado como votante (`role: voter`):
+
+1. Se muestra la lista de encuestas activas. Cada entrada contiene título y estado.
+2. Pulsar en una encuesta para ver sus opciones.
+3. Seleccionar la opción deseada y confirmar el voto.
+4. Sólo se permite votar una vez por encuesta; al volver a entrar la opción aparecerá deshabilitada.
+
+El menú (hamburguesa o barra lateral) ofrece enlace a _Votar_ (página principal) y _Cerrar sesión_.
+
+### 4. Administrador
+
+Un usuario con rol `admin` tiene acceso a funciones adicionales desde el menú:
+
+- **Encuestas**: crear nuevas encuestas, editar títulos/estado, eliminar.
+- **Usuarios**: ver/añadir/borrar votantes (codigo, nombre, acciones).
+- **Votar** no está disponible si estás en modo administrador; en su lugar puedes cambiar al modo votante desde el menú si lo deseas.
+
+Además, al iniciar sesión como admin el sistema redirige automáticamente a la sección de administración (competición). Utiliza el panel para gestionar contenido antes y durante la votación.
+
+### 5. Cerrar sesión
+
+- Selecciona _Cerrar sesión_ en el menú lateral/hamburguesa.
+- Serás redirigido a la pantalla de login.
+
+---
+
+### 6. Despliegue en producción
+
+El repositorio incluye un `Dockerfile` en la raíz que construye la aplicación completa (backend + frontend). Se puede usar con cualquier plataforma de contenedores que soporte Docker (Render, Heroku, etc.).
+
+Mantener actualizados los archivos en `frontend-dist` si recompilas el frontend desde el código fuente.
+
 **NOTAS**: 
 - Si se cambia el *TOKEN_SECRET* en el docker-compose.yml, el hash de la contraseña del administador debe ser actualizado en la base de datos. 
 
