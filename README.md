@@ -33,6 +33,9 @@ El directorio `frontend-dist` sólo contiene los archivos generados que se sirve
 **Configuración de la API:**
 La aplicación carga `assets/env.js` al iniciar y usa la variable `env.apiUrl` para apuntar al backend. En la versión incluida este fichero apuntaba a `https://api.myapp.com`, lo que hacía que el login se quedara cargando porque no había ningún servidor en esa dirección. El `env.js` que ahora se copia al contenedor añade la URL dinámica `window.location.origin + '/api/v1'` para que siempre se conecte al mismo host donde se sirve la SPA. Si vuelves a reconstruir el frontend desde el código fuente, asegúrate de que `env.js` contenga un valor relativo o dinámico similar.
 
+**Secretos y despliegue:**
+El backend necesita la variable de entorno `JWT_SECRET` para firmar y verificar tokens. Sin ella la aplicación no arrancará (`JwtStrategy requires a secret or key`). Asegúrate de definir `JWT_SECRET` (y opcionalmente `JWT_EXPIRATION_TIME`) en tu entorno de producción o en la plataforma de despliegue. En `docker-compose.yml` se muestra un ejemplo con un valor hardcodeado, pero **no** use ese secreto en producción.
+
 **Menú en escritorio:**
 En el build original la barra lateral (`ion-menu`) sólo se mostraba en pantallas pequeñas y el botón hamburguesa aparecía siempre; en escritorio el menú se ocultaba. Para forzar que el `ion-split-pane` se active desde `md` (>=768px) y estilizar el botón, hemos añadido dos archivos estáticos:
 
