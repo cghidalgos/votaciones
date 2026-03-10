@@ -74,6 +74,18 @@ ion-split-pane {
   display: none !important;
 }
 
+/* Ionic oculta ion-menu-toggle con menu-toggle-hidden en desktop;
+   forzar visibilidad cuando el split-pane está activo */
+.split-pane-visible ion-menu-toggle {
+  display: block !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+}
+.split-pane-visible ion-menu-toggle.menu-toggle-hidden {
+  display: block !important;
+  visibility: visible !important;
+}
+
 /* Cabecera del menú */
 ion-menu ion-toolbar {
   --background: var(--custom-gradient) !important;
