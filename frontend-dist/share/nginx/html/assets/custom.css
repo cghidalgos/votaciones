@@ -142,6 +142,34 @@ ion-menu ion-menu-toggle ion-button ion-icon {
   flex-shrink: 0 !important;
 }
 
+/* Botón cerrar sesión */
+.custom-logout-btn {
+  all: unset !important;
+  display: flex !important;
+  align-items: center !important;
+  width: 100% !important;
+  height: 52px !important;
+  padding: 0 16px !important;
+  margin: 4px 0 !important;
+  border-radius: 12px !important;
+  cursor: pointer !important;
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  color: #fca5a5 !important;
+  background: rgba(239,68,68,0.12) !important;
+  box-sizing: border-box !important;
+  transition: background 0.15s ease !important;
+}
+.custom-logout-btn:hover {
+  background: rgba(239,68,68,0.25) !important;
+  color: #fca5a5 !important;
+}
+.custom-logout-btn ion-icon {
+  color: #fca5a5 !important;
+  font-size: 1.3rem !important;
+  margin-right: 12px !important;
+}
+
 /* Divider en el menú */
 ion-menu ion-list-header {
   font-size: 0.75rem !important;
